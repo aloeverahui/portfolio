@@ -6,6 +6,9 @@
 - Bachelor (Hons) of Civil Engineering | Universiti Tunku Abdul Rahman (_December 2011_)								       		
 - Foundation in Science (Engineering)	| Universiti Tunku Abdul Rahmans (_December 2007_)	 			        		
 
+## Certification
+- IBM Data Analyst Professional Certificate (_April 2024_)								       		
+
 ## Work Experience
 **Medical Adminstrative @ Lifca Medical (_December 2020 - July 2023_)**
 - Managed daily accounting, prepare sales report, panel coordination, appointment arrangement and documents control.
