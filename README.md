@@ -4,9 +4,9 @@
 
 ### Education
 - Bachelor (Hons) of Civil Engineering
-  Universiti Tunku Abdul Rahman (December 2011)
+  | Universiti Tunku Abdul Rahman (December 2011)
 - Foundation in Science (Engineering)
-  Universiti Tunku Abdul Rahman （December 2007)
+  | Universiti Tunku Abdul Rahman （December 2007)
 
 ### Certification
 - IBM Data Analyst Professional Certificate
