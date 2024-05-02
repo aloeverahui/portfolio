@@ -1,13 +1,26 @@
 # Junior Data Analyst
 
+### Technical Skills: Microsoft Excel, Power BI, Basic SQL, Basic Python
+
 ### Education
-Bachelor (Hons) of Civil Engineering
+- Bachelor (Hons) of Civil Engineering|Universiti Tunku Abdul Rahman_（December 2011)_
+- Foundation in Science (Engineering)|Universiti Tunku Abdul Rahman_（December 2007)_
 
 ### Certification
-IBM Data Analyst Professional Certificate
+- IBM Data Analyst Professional Certificate
 
 ### Work Experience
-Structural Steel Design Engineer @ Milwanto Corporation
-- KLIA 2 Satalite Building Connections Design
+**Medical Adminstrative @ Lifca Medical_（December 2020-July 2023)_**
+- Managed daily accounting, prepare sales report, panel coordination, appointment arrangement and documents control.
+- Planning daily routing, administering medications and perform daily stocking.
 
-Medical Adminstrative @ Lifca Medical
+**Restaurant Partnership_（June 2018-December 2020)_**
+- Analyzing local competition, monitoring competitors, targeting consumers and marketing activities. Costing and pricing of products to maximize margin.
+- Setting up business proposal and financial plan. 
+
+**Project Design Engineer @ Milwanto Corporation_（Feb 2021-June 2018)_**
+- Managed team meeting, identify project responsibilities, delegating phases and elements to the appropriate personnel.
+- Monitoring work progress to achieve results according to project schedule.
+- Prepare consultation meeting minutes and proper project documentation.
+
+
