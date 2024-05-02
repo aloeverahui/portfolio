@@ -3,8 +3,10 @@
 ### Technical Skills: Microsoft Excel, Power BI, Basic SQL, Basic Python
 
 ### Education
-- Bachelor (Hons) of Civil Engineering|Universiti Tunku Abdul Rahman (December 2011)
-- Foundation in Science (Engineering)|Universiti Tunku Abdul Rahman （December 2007)
+- Bachelor (Hons) of Civil Engineering
+  Universiti Tunku Abdul Rahman (December 2011)
+- Foundation in Science (Engineering)
+  Universiti Tunku Abdul Rahman （December 2007)
 
 ### Certification
 - IBM Data Analyst Professional Certificate
