@@ -3,7 +3,7 @@
 ### Technical Skills: Microsoft Excel, Power BI, Basic SQL, Basic Python
 
 ### Education
-- Bachelor (Hons) of Civil Engineering|Universiti Tunku Abdul Rahman_（December 2011)_
+- Bachelor (Hons) of Civil Engineering|Universiti Tunku Abdul Rahman_(December 2011)_
 - Foundation in Science (Engineering)|Universiti Tunku Abdul Rahman_（December 2007)_
 
 ### Certification
