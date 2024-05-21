@@ -15,7 +15,8 @@
 - Planning daily routing, administering medications and perform daily stocking.
 
 **Restaurant Partnership (_June 2018 - December 2020_)**
-- Analyze local competition, monitoring competitors, targeting consumers and marketing activities. Costing and pricing of products to maximize margin.
+- Analyzing local competition, monitoring competitors, targeting consumers and marketing activities.
+- Analyze costing and pricing of products to maximize margin.
 - Setting up business proposal and financial plan. 
 
 **Project Design Engineer @ Milwanto Corporation (_Feb 2021 - June 2018_)**
