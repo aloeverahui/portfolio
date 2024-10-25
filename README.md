@@ -1,6 +1,6 @@
 # Junior Data Analyst
 
-#### Technical Skills: Spreadsheet, Power BI, Basic SQL, Basic Python
+#### Technical Skills: Spreadsheets, Power BI, Tableau, Power Point, Basic SQL, Basic Python, Basic R
 
 ## Education
 - Bachelor (Hons) of Civil Engineering | Universiti Tunku Abdul Rahman (_December 2011_)								       		
