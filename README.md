@@ -7,19 +7,20 @@
 - Foundation in Science (Engineering)	| Universiti Tunku Abdul Rahmans (_December 2007_)	 			        		
 
 ## Certification
-- IBM Data Analyst Professional Certificate (_April 2024_)								       		
+- IBM Data Analyst Professional Certificate (_April 2024_)
+- Google Data Analytics Professional Certificate (_October 2024_)							       		
 
 ## Work Experience
 **Medical Adminstrative @ Lifca Medical (_December 2020 - July 2023_)**
-- Analyze panel sales report, managed daily accounting, panel coordination and documents control.
-- Planning daily routing, administering medications and perform daily stocking.
+- Analyzing panel sales trends, generating sales reports and collaboration with teams.
+-	Managed daily financial data, optimizing daily workflow planning and documents control. 
 
 **Restaurant Partnership (_June 2018 - December 2020_)**
-- Analyzing local competition, monitoring competitors, targeting consumers and marketing activities.
-- Analyze costing and pricing of products to maximize margin.
-- Setting up business proposal and financial plan. 
+- Conducting competitor analysis, monitoring market trends, targeting consumer and marketing strategies.
+-	Analyzing product costs and pricing strategies to optimize profit margins.
+-	Setting up business proposal and financial plan.
 
 **Project Design Engineer @ Milwanto Corporation (_Feb 2021 - June 2018_)**
-- Analyze work progress and material list to achieve results according to project schedule.
-- Managed team meeting, identify project responsibilities, delegating phases and elements to the appropriate personnel.
-- Prepare consultation meeting minutes and proper project documentation.
+- Analyzed work progress and material requirements to achieve results according to project schedule.
+-	Managed team meeting, identified project responsibilities, and delegating tasks and phases to the appropriate personnel.
+-	Prepared detailed consultation meeting minutes and maintained project documentation. 
